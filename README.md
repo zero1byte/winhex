@@ -1,10 +1,10 @@
-# WinHex File Analyzer
+# HexWood File Analyzer
 
 A lightweight, browser-based hex editor and file analyzer that lets you inspect any file in Hexadecimal, Binary, or Octal formats.
 
 ## Live Demo
 
-[**Try WinHex Online**](https://yourusername.github.io/winhex)
+[**Try HexWood Online**](https://zero1byte.github.io/hexwood)
 
 ## Features
 
@@ -43,8 +43,8 @@ A lightweight, browser-based hex editor and file analyzer that lets you inspect 
 Clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/yourusername/winhex.git
-cd winhex
+git clone https://github.com/Zero1Byte/hexwood.git
+cd hexwood
 # Open index.html in your browser
 ```
 
@@ -58,10 +58,7 @@ Works in all modern browsers:
 - Safari
 - Edge
 
-## License
-
-MIT License
 
 ---
 
-Made with Tailwind CSS
+Designed by [Zero1Byte](https://github.com/Zero1Byte) | Made with Tailwind CSS

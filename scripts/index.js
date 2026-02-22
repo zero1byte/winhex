@@ -1,4 +1,4 @@
-// WinHex File Analyzer - Supports Hex, Binary, and Octal views
+// HexWood File Analyzer - Supports Hex, Binary, and Octal views
 
 let fileData = null; // Store file bytes globally
 let currentMode = 'hex'; // Default view mode
